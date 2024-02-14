@@ -6,4 +6,7 @@ Follow the steps:
 
 Note: We generated embeddings using LSTM (could have tried with GRU), used PCA for dimensionality reduction to visualize scatter plots and used four SOTA methods: KMeans, DBScan, Isolation Forest and Spectral Clustering.
 
-We realized that while Isolation Forest gave similar clusters as KMeans, Spectral Clustering gave us the best visualization.
+We realized that while Isolation Forest gave similar clusters as KMeans, Spectral Clustering gave us the best visualization. The visualization for Spectral Clustering is as follows:
+
+![spectral_results](https://github.com/rohit-kapoor/Honeywell_hackathon/assets/40568172/ebb4e575-c380-4c70-af58-cd7902cdbe86)
+
