@@ -1,3 +1,12 @@
+## Flight Anomaly Detection
+
+This repository contains my submission for Honey Well ML hackathon.
+
+The problem statement was to classify a flight to be Normal or Anomalous using the real time flight statistics.
+
+
+#### Execution
+
 Follow the steps:
 
 1. First run `preprocess.py` to get the dataset in the form of a timeseries (a flight with an ID follows a trajectory).
